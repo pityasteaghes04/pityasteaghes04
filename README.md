@@ -34,7 +34,7 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 
 * **SOC Operator @ EdgeConneX:** Managing real-time security systems and high-stakes alarms to ensure data center uptime and risk mitigation.
 * **Compliance:** Expertise in maintaining strict adherence to **SOC2** and **ISO** standards.
-* **Academic Excellence:** 3.85 GPA; Autumn 2022 and Winter 2025 Dean’s List recipient.
+* **Academic Excellence:** 3.85 GPA; 2022-2026 Dean’s List recipient.
 
 ---
 
