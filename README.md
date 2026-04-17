@@ -10,7 +10,7 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 
 ---
 
-## 🛠️ Technical Ecosystem
+## Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -23,18 +23,18 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 ## 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *Predictive solar efficiency modeling for global infrastructure.* ✨ **Actively Maintained**
 
-* **Predictive Risk Modeling:** Developed statistical models (ICDF) to forecast 90% system success for charging cycles in varying climates[cite: 12, 13].
-* **Global Stress Testing:** Comparative analysis between high-ROI regions (Eritrea) and low-irradiance environments (Seattle)[cite: 14].
-* **Systems Reliability:** Implemented secure API fallback logic and hardware efficiency modeling for regions with limited infrastructure[cite: 15].
-* **Agile Management:** Utilized Kanban methodologies to oversee the full development lifecycle[cite: 16].
+* **Predictive Risk Modeling:** Developed statistical models (ICDF) to forecast 90% system success for charging cycles in varying climates.
+* **Global Stress Testing:** Comparative analysis between high-ROI regions (Eritrea) and low-irradiance environments (Seattle).
+* **Systems Reliability:** Implemented secure API fallback logic and hardware efficiency modeling for regions with limited infrastructure.
+* **Agile Management:** Utilized Kanban methodologies to oversee the full development lifecycle.
 
 ---
 
-## 📊 Impact & Experience
+## Impact & Experience
 
-* [cite_start]**SOC Operator @ EdgeConneX:** Managing real-time security systems and high-stakes alarms to ensure data center uptime and risk mitigation[cite: 18, 19].
-* [cite_start]**Compliance:** Expertise in maintaining strict adherence to **SOC2** and **ISO** standards[cite: 20].
-* **Academic Excellence:** 3.85 GPA; [cite_start]Autumn 2022 and Winter 2025 Dean’s List recipient[cite: 4, 5, 6].
+* **SOC Operator @ EdgeConneX:** Managing real-time security systems and high-stakes alarms to ensure data center uptime and risk mitigation.
+* **Compliance:** Expertise in maintaining strict adherence to **SOC2** and **ISO** standards.
+* **Academic Excellence:** 3.85 GPA; Autumn 2022 and Winter 2025 Dean’s List recipient.
 
 ---
 
