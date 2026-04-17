@@ -23,10 +23,10 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 ## 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *Predictive solar efficiency modeling for global infrastructure.* ✨ **Actively Maintained**
 
-* [cite_start]**Predictive Risk Modeling:** Developed statistical models (ICDF) to forecast 90% system success for charging cycles in varying climates[cite: 12, 13].
-* [cite_start]**Global Stress Testing:** Comparative analysis between high-ROI regions (Eritrea) and low-irradiance environments (Seattle)[cite: 14].
-* [cite_start]**Systems Reliability:** Implemented secure API fallback logic and hardware efficiency modeling for regions with limited infrastructure[cite: 15].
-* [cite_start]**Agile Management:** Utilized Kanban methodologies to oversee the full development lifecycle[cite: 16].
+* **Predictive Risk Modeling:** Developed statistical models (ICDF) to forecast 90% system success for charging cycles in varying climates[cite: 12, 13].
+* **Global Stress Testing:** Comparative analysis between high-ROI regions (Eritrea) and low-irradiance environments (Seattle)[cite: 14].
+* **Systems Reliability:** Implemented secure API fallback logic and hardware efficiency modeling for regions with limited infrastructure[cite: 15].
+* **Agile Management:** Utilized Kanban methodologies to oversee the full development lifecycle[cite: 16].
 
 ---
 
