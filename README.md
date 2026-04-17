@@ -39,7 +39,7 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 ---
 
 ## 📄 Resume & Contact
-[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Resume-PityasT.pdf) &nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes) &nbsp; [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pityasisayas21@gmail.com)
+[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Resume-PityasT.pdf) &nbsp; [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes) &nbsp;
 
 **Targeting Summer 2026 Internships in Risk Analytics and Geospatial Data Science.**
 
