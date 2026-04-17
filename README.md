@@ -44,4 +44,3 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 **Targeting Summer 2026 Internships in Risk Analytics and Geospatial Data Science.**
 
 ---
-*“I am dedicated to leveraging advanced data to drive global impact and uplift underprivileged regions.”*
