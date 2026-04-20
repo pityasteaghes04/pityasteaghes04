@@ -59,7 +59,4 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
 
 </div>
-
-**Targeting Summer 2026 Internships in Risk Analytics and Geospatial Data Science.**
-
 ---
