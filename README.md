@@ -1,9 +1,3 @@
-👋 Welcome! I'm Pityas Teaghes
-Analytics Systems Developer | Predictive Risk & Geospatial Visualization
-Building high-impact data solutions to solve complex problems in Predictive Risk and Geospatial Intelligence. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
-
-The Code
-Markdown
 # <div align="center">👋 Welcome! I'm Pityas Teaghes</div>
 
 <div align="center">
