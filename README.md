@@ -10,7 +10,7 @@
 
 ---
 
-> Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
+Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
 
 </div>
 
