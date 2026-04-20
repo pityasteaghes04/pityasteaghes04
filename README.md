@@ -1,12 +1,24 @@
-# 👋 Welcome! I'm Pityas Teaghes
+👋 Welcome! I'm Pityas Teaghes
+Analytics Systems Developer | Predictive Risk & Geospatial Visualization
+Building high-impact data solutions to solve complex problems in Predictive Risk and Geospatial Intelligence. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
+
+The Code
+Markdown
+# <div align="center">👋 Welcome! I'm Pityas Teaghes</div>
+
+<div align="center">
 
 ### **Analytics Systems Developer | Predictive Risk & Geospatial Visualization**
 
 ![University](https://img.shields.io/badge/University-UW%20Bothell-4b2e83?style=for-the-badge&logo=university-of-washington&logoColor=white)
-![Degree](https://img.shields.io/badge/Degree-B.A.%20Data%20Visualization%20'27-0059b3?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-2ea44f?style=for-the-badge)
+![Degree](https://img.shields.io/badge/Degree-B.A.%20Data%20Visualization%20'27-2196F3?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-4CAF50?style=for-the-badge)
 
-Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
+---
+
+> Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
+
+</div>
 
 ---
 
