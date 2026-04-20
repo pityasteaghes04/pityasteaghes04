@@ -54,8 +54,10 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Resume-PityasT.pdf) 
+[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Resume-PityasT.pdf) 
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
+
+</div>
 
 ---
