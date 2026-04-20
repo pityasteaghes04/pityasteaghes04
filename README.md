@@ -1,10 +1,9 @@
 # 👋 Welcome! I'm Pityas Teaghes
 ### **Analytics Systems Developer | Predictive Risk & Geospatial Visualization**
-**University of Washington Bothell | Bachelor of Data Visualization (2027)**
+**![University](https://img.shields.io/badge/University-UW_Bothell-purple) | ![Bachelor's](https://img.shields.io/badge/Bachelor-Data_Visualization_2027-purple))**
 
 ![Status](https://img.shields.io/badge/Status-Actively_Seeking_Internships-brightgreen)
 ![Last Updated](https://img.shields.io/badge/Last_Updated-April_2026-blue)
-![University](https://img.shields.io/badge/University-UW_Bothell-purple)
 
 Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
 
