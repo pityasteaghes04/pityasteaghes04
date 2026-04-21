@@ -1,4 +1,4 @@
-# <div align="center">👋 Welcome! I'm Pityas Teaghes</div>
+# <div align="center">👋 Welcome! I'm Pityas </div>
 
 <div align="center">
 
