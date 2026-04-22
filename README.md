@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### **Analytics Systems Developer | Predictive Risk & Geospatial Visualization**
+### **Probabilistic Risk Systems Developer | Neural Network Analytics**
 
 ![University](https://img.shields.io/badge/University-UW%20Bothell-4b2e83?style=for-the-badge&logo=university-of-washington&logoColor=white)
 ![Degree](https://img.shields.io/badge/Degree-B.A.%20Data%20Visualization%20'27-2196F3?style=for-the-badge)
