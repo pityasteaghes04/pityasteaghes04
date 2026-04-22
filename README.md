@@ -1,4 +1,4 @@
-# <div align="center"> Welcome! I'm Pityas </div>
+# <div align="center"> Welcome! I'm Pityas 💻 </div>
 
 <div align="center">
 
@@ -7,6 +7,7 @@
 ![University](https://img.shields.io/badge/University-UW%20Bothell-4b2e83?style=for-the-badge&logo=university-of-washington&logoColor=white)
 ![Degree](https://img.shields.io/badge/Degree-B.A.%20Data%20Visualization%20'27-2196F3?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-4CAF50?style=for-the-badge)
+[![Refined GitHub](https://img.shields.io/badge/Enhanced_by-Refined_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/refined-github/refined-github)
 
 ---
 
