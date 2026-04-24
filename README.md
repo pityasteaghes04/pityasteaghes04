@@ -36,12 +36,6 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ## 🟢 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *A smart tool for global solar hardware calculation.* ✨ **Actively Maintained**
 
-<div align="center">
-  <a href="https://lnkd.in/gidJQsMq">
-    <img src="https://raw.githubusercontent.com/refined-github/refined-github/main/extension/assets/social-preview.png" width="100%" alt="SolarAnywhere Banner" />
-  </a>
-</div>
-
 * **Global Precision:** Integrated 365 days of live weather data to calculate exact solar needs anywhere on Earth.
 * **Smart Planning:** Uses predictive modeling to forecast battery success rates in varied climate profiles.
 * **System Resilience:** Engineered with fallback logic to ensure reliable hardware efficiency insights.
