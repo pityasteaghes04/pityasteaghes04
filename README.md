@@ -23,11 +23,11 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ### **Core Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-### **Analytics & Development**
-![Data Structures](https://img.shields.io/badge/Data%20Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### **Deep Learning & Analytics**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 
-### **Geospatial & Tools**
-![ArcGIS](https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+### **Engineering & Tools**
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white) ![Algorithms](https://img.shields.io/badge/Data%20Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
 </div>
 
