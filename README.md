@@ -36,6 +36,12 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ## 🟢 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *A smart tool for global solar hardware calculation.* ✨ **Actively Maintained**
 
+<div align="center">
+  <a href="https://lnkd.in/gidJQsMq">
+    <img src="https://raw.githubusercontent.com/refined-github/refined-github/main/extension/assets/social-preview.png" width="100%" alt="SolarAnywhere Banner" />
+  </a>
+</div>
+
 * **Global Precision:** Integrated 365 days of live weather data to calculate exact solar needs anywhere on Earth.
 * **Smart Planning:** Uses predictive modeling to forecast battery success rates in varied climate profiles.
 * **System Resilience:** Engineered with fallback logic to ensure reliable hardware efficiency insights.
@@ -50,11 +56,11 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 
 ---
 
-## 📄 Portfolio & Networking
+## 📄 Resume & Contact
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pityasteaghes04)
+[![Resume](https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Resume-PityasT.pdf)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
 
