@@ -1,6 +1,6 @@
-# <div align="center"> Welcome! I'm Pityas  </div>
-
 <div align="center">
+
+# Welcome! I'm Pityas
 
 ### **Probabilistic Risk Systems Developer | Neural Network Analytics**
 
@@ -10,7 +10,7 @@
 
 ---
 
-Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights for underserved regions.
+Building high-impact data solutions to solve complex problems in **Predictive Risk** and **Geospatial Intelligence**. I specialize in engineering systems that bridge the gap between raw data and actionable insights.
 
 </div>
 
@@ -33,20 +33,25 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 
 ---
 
-## 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
-> *Predictive solar efficiency modeling for global infrastructure.* ✨ **Actively Maintained**
+## 🟢 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
+> *A smart tool for global solar hardware calculation.* ✨ **Actively Maintained**
 
-* **Predictive Risk Modeling:** Developed statistical models (ICDF) to forecast 90% system success for charging cycles in varying climates.
-* **Global Stress Testing:** Comparative analysis between high-ROI regions (Eritrea) and low-irradiance environments (Seattle).
-* **Systems Reliability:** Implemented secure API fallback logic and hardware efficiency modeling for regions with limited infrastructure.
-* **Agile Management:** Utilized Kanban methodologies to oversee the full development lifecycle.
+<div align="center">
+  <a href="https://lnkd.in/gidJQsMq">
+    <img src="https://raw.githubusercontent.com/refined-github/refined-github/main/extension/assets/social-preview.png" width="100%" alt="SolarAnywhere Banner" />
+  </a>
+</div>
+
+* **Global Precision:** Integrated 365 days of live weather data to calculate exact solar needs anywhere on Earth.
+* **Smart Planning:** Uses predictive modeling to forecast battery success rates in varied climate profiles.
+* **System Resilience:** Engineered with fallback logic to ensure reliable hardware efficiency insights.
 
 ---
 
 ## Impact & Experience
 
-* **SOC Operator @ EdgeConneX:** Managing real-time security systems and high-stakes alarms to ensure data center uptime and risk mitigation.
-* **Compliance:** Expertise in maintaining strict adherence to **SOC2** and **ISO** standards.
+* **Security Operations Center Operator:** Managing real-time security systems and risk mitigation for critical data infrastructure.
+* **Data Privacy:** Ensuring high-level security standards and operational integrity within professional environments.
 * **Academic Excellence:** 3.85 GPA; 2022-2026 Dean’s List recipient.
 
 ---
@@ -60,5 +65,3 @@ Building high-impact data solutions to solve complex problems in **Predictive Ri
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
 
 </div>
-
----
