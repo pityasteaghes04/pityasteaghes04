@@ -2,7 +2,7 @@
 
 # Welcome! I'm Pityas
 
-### **Data Science | Neural Network Analytics**
+### **Integrated Systems | Information Technology & Security**
 
 ![University](https://img.shields.io/badge/University-UW%20Bothell-4b2e83?style=for-the-badge&logo=university-of-washington&logoColor=white)
 ![Degree](https://img.shields.io/badge/Degree-B.A.%20Data%20Visualization%20'27-2196F3?style=for-the-badge)
@@ -30,33 +30,27 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white) ![Algorithms](https://img.shields.io/badge/Data%20Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
 </div>
-
 ---
-
-## 🟢 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
+## 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *A smart tool for global solar hardware calculation.* ✨ **Actively Maintained**
 
 * **Global Precision:** Integrated 365 days of live weather data to calculate exact solar needs anywhere on Earth.
 * **Smart Planning:** Uses predictive modeling to forecast battery success rates in varied climate profiles.
 * **System Resilience:** Engineered with fallback logic to ensure reliable hardware efficiency insights.
-
 ---
-
 ## Impact & Experience
 
 * **Security Operations Center Operator:** Managing real-time security systems and risk mitigation for critical data infrastructure.
 * **Data Privacy & Integrity:** Ensuring high-level security standards and operational continuity within professional environments.
 * **Academic Excellence:** 3.85 GPA; 2022-2026 Dean’s List recipient.
-
 ---
-
 ## 📄 Resume & Contact
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/raw/main/Resume-PityasT.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/raw/main/Pityas_Isayas_Resume.pdf)
 &nbsp;&nbsp;
-[![View PDF](https://img.shields.io/badge/Resume-View%20Direct-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Resume-PityasT.pdf)
+[![View PDF](https://img.shields.io/badge/Resume-View%20Direct-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Pityas_Isayas_Resume.pdf)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
 
