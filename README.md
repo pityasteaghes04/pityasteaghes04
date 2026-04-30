@@ -49,9 +49,9 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 
 <div align="center">
 
-[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/raw/main/Pityas_Isayas_Resume.pdf)
+[![Download Resume](https://img.shields.io/badge/Resume-Download%20PDF-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/raw/main/Pityas_Teaghes_Resume.pdf)
 &nbsp;&nbsp;
-[![View PDF](https://img.shields.io/badge/Resume-View%20Direct-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Pityas_Isayas_Resume.pdf)
+[![View PDF](https://img.shields.io/badge/Resume-View%20Direct-555555?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/pityasteaghes04/pityasteaghes04/blob/main/Pityas_Teaghes_Resume.pdf)
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2196F3?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pityasteaghes)
 
