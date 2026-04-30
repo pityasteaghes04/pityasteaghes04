@@ -30,6 +30,7 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white) ![Algorithms](https://img.shields.io/badge/Data%20Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
 </div>
+
 ---
 ## 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *A smart tool for global solar hardware calculation.* ✨ **Actively Maintained**
