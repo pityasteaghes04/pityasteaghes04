@@ -10,7 +10,7 @@
 
 ---
 
-Determined fast learner dedicated to leveraging advanced data to drive global impact and uplift underserved regions. I specialize in engineering high-impact data solutions that bridge the gap between raw metrics and actionable insights.
+Determined fast learner dedicated to leveraging advanced data to drive global impact and deliver scalable solutions. I specialize in creating predictive systems that translate complex datasets into high-precision technical results.
 
 </div>
 
