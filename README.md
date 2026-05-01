@@ -5,7 +5,7 @@
 ### **Integrated Systems | Information Technology & Security**
 
 ![University](https://img.shields.io/badge/University%20of%20Washington-4b2e83?style=for-the-badge&logo=university-of-washington&logoColor=white)
-![Degree](https://img.shields.io/badge/B.S.%20Data%20Visualization%20'27-2196F3?style=for-the-badge)
+
 ![Status](https://img.shields.io/badge/Status-Summer%202026%20Internship%20Candidate-4CAF50?style=for-the-badge)
 
 ---
