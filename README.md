@@ -40,15 +40,6 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
 
----
-
-##  Key Competencies
-
-* **Software Design:** Proficient in **Object-Oriented Programming (OOP)** principles to build modular, maintainable, and scalable applications.
-* **Information Assurance:** Real-time monitoring and threat mitigation within **Security Operations Center (SOC)** environments.
-* **Data Engineering:** Designing automated end-to-end pipelines (ETL) and integrating live REST APIs for predictive modeling.
-* **Systems Architecture:** Experience with **Linux** environments and managing version control via **Git/GitHub** for collaborative engineering.
-
 </div>
 
 ---
@@ -63,7 +54,9 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 
 * **Security Operations Center Operator:** Managing real-time security systems and risk mitigation for critical data infrastructure.
 * **Data Privacy & Integrity:** Ensuring high-level security standards and operational continuity within professional environments.
-* **Academic Excellence:** 3.85 GPA; 2022-2026 Dean’s List recipient.
+* **Software Design:** Proficient in **Object-Oriented Programming (OOP)** principles to build modular, maintainable, and scalable applications.
+* **Data Engineering:** Designing automated end-to-end pipelines (ETL) and integrating live REST APIs for predictive modeling.
+* **Systems Architecture:** Experience with **Linux** environments and managing version control via **Git/GitHub** for collaborative engineering.
 ---
 ## 📄 Resume & Contact
 
