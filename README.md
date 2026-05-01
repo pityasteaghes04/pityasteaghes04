@@ -20,14 +20,34 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 
 <div align="center">
 
-### **Core Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+##  Technical Toolkit
 
-### **Deep Learning & Analytics**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+### **Core Languages & Paradigm**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-3670A0?style=for-the-badge&logo=probot&logoColor=white)
 
-### **Engineering & Tools**
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![ArcGIS](https://img.shields.io/badge/ArcGIS-E0302F?style=for-the-badge&logo=arcgis&logoColor=white) ![Algorithms](https://img.shields.io/badge/Data%20Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black) ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+### **Deep Learning & Data Analytics**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white) 
+
+### **Engineering, Security & Systems**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FFD700?style=for-the-badge&logo=algorithms&logoColor=black) 
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)
+
+---
+
+##  Key Competencies
+
+* **Software Design:** Proficient in **Object-Oriented Programming (OOP)** principles to build modular, maintainable, and scalable applications.
+* **Information Assurance:** Real-time monitoring and threat mitigation within **Security Operations Center (SOC)** environments.
+* **Data Engineering:** Designing automated end-to-end pipelines (ETL) and integrating live REST APIs for predictive modeling.
+* **Systems Architecture:** Experience with **Linux** environments and managing version control via **Git/GitHub** for collaborative engineering.
 
 </div>
 
