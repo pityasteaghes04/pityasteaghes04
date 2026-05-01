@@ -16,8 +16,6 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 
 ---
 
-<h2 align="center"> Technical Toolkit </h2>
-
 <div align="center">
 
 ## Technical Toolkit
