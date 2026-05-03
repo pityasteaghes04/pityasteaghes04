@@ -43,9 +43,10 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 ---
 ## 📁 Featured Project: [SolarAnywhere](https://github.com/pityasteaghes04/SolarAnywhere)
 > *A smart tool for global solar hardware calculation.* ✨ **Actively Maintained**
-
+* **Smart Search:** Seamlessly resolves locations and landmarks by name (e.g., Space Needle) for instant, hyper-local data.
 * **Global Precision:** Integrated 365 days of live weather data to calculate exact solar needs anywhere on Earth.
 * **Smart Planning:** Uses predictive modeling to forecast battery success rates in varied climate profiles.
+* **Stress Testing:** Rigorously verified for all-weather reliability across extreme irradiance variances.
 * **System Resilience:** Engineered with fallback logic to ensure reliable hardware efficiency insights.
 ---
 ## 📄 Resume & Contact
