@@ -48,14 +48,6 @@ Determined fast learner dedicated to leveraging advanced data to drive global im
 * **Smart Planning:** Uses predictive modeling to forecast battery success rates in varied climate profiles.
 * **System Resilience:** Engineered with fallback logic to ensure reliable hardware efficiency insights.
 ---
-## Impact & Experience
-
-* **Security Operations Center Operator:** Managing real-time security systems and risk mitigation for critical data infrastructure.
-* **Data Privacy & Integrity:** Ensuring high-level security standards and operational continuity within professional environments.
-* **Software Design:** Proficient in **Object-Oriented Programming (OOP)** principles to build modular, maintainable, and scalable applications.
-* **Data Engineering:** Designing automated end-to-end pipelines (ETL) and integrating live REST APIs for predictive modeling.
-* **Systems Architecture:** Experience with **Linux** environments and managing version control via **Git/GitHub** for collaborative engineering.
----
 ## 📄 Resume & Contact
 
 <div align="center">
