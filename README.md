@@ -6,7 +6,7 @@
 
 ![University](https://img.shields.io/badge/University%20of%20Washington-4b2e83?style=for-the-badge&logo=university-of-washington&logoColor=white)
 
-![Status](https://img.shields.io/badge/Status-Summer%2027%20Internship%20Candidate-4CAF50?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Summer%202027%20Internship%20Candidate-4CAF50?style=for-the-badge)
 
 ---
 
